@@ -60,4 +60,4 @@ function displayResult() {
 
 document
   .getElementById("show-result")
-  .addEventListener("click", displayResult)
+  .addEventListener("click", displayResult);
